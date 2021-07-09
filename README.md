@@ -7,7 +7,7 @@
 - pip3 install vosk
 
 3. Clonar este repositorio
-- git clone 
+- git clone https://github.com/moralesddios/vosk-example.git
 
 4. Ejecutar la prueba
 - python3 run.py example.wav
