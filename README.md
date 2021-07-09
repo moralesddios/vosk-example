@@ -9,5 +9,8 @@
 3. Clonar este repositorio
 - git clone https://github.com/moralesddios/vosk-example.git
 
-4. Ejecutar la prueba
+4. Acceder a la carpeta
+- cd vosk-example
+
+5. Ejecutar la prueba
 - python3 run.py example.wav
